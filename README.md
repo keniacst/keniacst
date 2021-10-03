@@ -2,7 +2,7 @@
 👀 I'm interested in Web Development, Photography and Graphic Design.
 🌱 I’m currently learning Django!
 💞️ I’m looking to collaborate on web devolpment projects in Chile <3
-📫 Contact: kenia.castillo@ug.uchile.cl
+📫 You can contact me by email kenia.castillo@ug.uchile.cl
 
 <!---
 keniacst/keniacst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
